@@ -1,0 +1,20 @@
+{
+  "secret": "",
+  "mailConfig": {
+    "host": "",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "no-reply@treo.cloud",
+      "pass": ""
+    }
+  },
+  "mailOptions": {
+    "from": "no-reply@treo.cloud",
+    "to": "",
+    "subject": "",
+    "text": "",
+    "html": "",
+    "attachments": []
+  }
+}

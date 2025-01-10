@@ -1,0 +1,18 @@
+{
+  "development": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "treo",
+    "user": "postgres",
+    "password": "duck@123",
+    "port": 5432
+  },
+  "production": {
+    "driver": "pg",
+    "host": "",
+    "database": "treodb",
+    "user": "",
+    "password": "",
+    "port": 5432
+  }
+}
